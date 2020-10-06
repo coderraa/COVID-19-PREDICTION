@@ -5,3 +5,6 @@ Tkinter is used as an GUI here.
 @author *Rahul Singh*
 ![covid_19_prediction](https://user-images.githubusercontent.com/57325166/95170490-24641f00-07d2-11eb-8744-51480a7cf1f4.png)
 
+
+
+
